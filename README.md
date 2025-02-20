@@ -1,0 +1,2 @@
+# notatki-PSI
+Notatki z zajęć - PROJEKTOWANIE SYSTEMÓW INFORMATYCZNYCH
