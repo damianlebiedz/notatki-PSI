@@ -1,2 +1,2 @@
 # notatki-PSI
-Notatki z zajęć - PROJEKTOWANIE SYSTEMÓW INFORMATYCZNYCH
+Projektowanie Systemów Informatycznych - notatki z zajęć (IV semestr IiE, WNE UW)
