@@ -1,7 +1,7 @@
 
 #' ---
 #' title: "Text Mining: Model Bag of Words"
-#' author: "Autor: ...."
+#' author: "Autor: Damian Lebiedz"
 #' date: "`r Sys.Date()`"
 #' output:
 #'   html_document:
